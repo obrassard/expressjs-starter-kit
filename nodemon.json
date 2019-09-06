@@ -1,0 +1,4 @@
+{
+  "watch": ["index.js", "server.js", "views/", "public/", "services/", "controllers/",  "templates/"],
+  "ext": "twig, js, css, html"
+}
